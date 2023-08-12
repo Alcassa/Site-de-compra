@@ -1,0 +1,28 @@
+body{
+        background-color: rgb(32, 54, 54);
+}
+.primeira{
+    background-color: rgb(90, 90, 161);
+    border-radius: 0.8pc;
+    border: 5px;
+    text-align: center;
+}
+label{
+    font-size: 12;
+    font-style: italic;
+}
+.inp{
+    margin-bottom: 0.4pc;
+}
+input[type=number]{
+    width: 7.75pc;
+}
+input[type=button]{
+    background-color: rgb(31, 138, 220);
+    box-shadow: 5px 5px rgb(6, 19, 88);
+    border: nome;
+}
+table{
+    background-color: blueviolet;
+    box-shadow: 3px 3px blue;
+}
